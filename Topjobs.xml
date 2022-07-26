@@ -1,1 +1,54 @@
-<?xml version = "1.0" encoding = "UTF-8" />
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<job>
+    <section name="Part-time">
+       <entry>
+         <position>Warehouse Operative</position>
+         <location>Dublin</location>
+         <salary>€12 an hour</salary>
+       </entry>
+       <entry>
+         <position>Bar and Floor staff</position>
+         <location>The Academy Dublin</location>
+         <salary>€11 - s€14 an hour</salary>
+       </entry>
+       <entry>
+         <position>Nando's Team Member</position>
+         <location>Nandos,Dublin</location>
+         <salary>€12 an hour</salary>
+       </entry>
+    </section>
+    <section name="Full-time">
+       <entry>
+         <position>Barista</position>
+         <location>Insomnia Leeson Street,Dublin</location>
+         <salary>€10.75 an hour</salary>
+       </entry>
+       <entry>
+         <position>Talented Hair Stylist</position>
+         <location>The Jim Hatton Salon,Dublin</location>
+         <salary>€30,000 - €40,000 a year</salary>
+       </entry>
+       <entry>
+         <position>Waiting Staff</position>
+         <location>Eddie Rockets,Dublin</location>
+         <salary>€10.50 an hour</salary>
+       </entry>
+    </section>
+    <section name="Chef">
+       <entry>
+         <position>Trainee Chef</position>
+         <location>Bartra Healthcare,Dublin</location>
+         <salary>€12.30 - €14.00 an hour</salary>
+       </entry>
+       <entry>
+         <position>Junior Chef de Partie</position>
+         <location>Davy Byrnes,Dublin</location>
+         <salary>€28,000 - €31,000 a year</salary>
+       </entry>
+       <entry>
+         <position>Grill Chef</position>
+         <location>JaDivision,Dublin</location>
+         <salary>€4,000 a month</salary>
+       </entry>
+    </section>
+</job>
