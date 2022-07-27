@@ -4,7 +4,7 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<title>Paddy's Cafe Menu</title>
+				<title>Topjobs</title>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 				<style>
 				body{font-family:Arial,Helvetica,sans-serif;background-color:#fff;margin:5px;text-align:left;color:#523819}
