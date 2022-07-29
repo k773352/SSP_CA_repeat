@@ -27,10 +27,9 @@
 		     <td>
 					<xsl:value-of select="location"/>
 			 </td>
-					<td align="right">
+			 <td align="right">
 					<xsl:value-of select="salary"/>
 			 </td>
-			 </tr>
 			    </xsl:for-each>
 				</xsl:for-each>
 		</tbody>
